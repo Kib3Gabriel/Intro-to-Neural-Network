@@ -1,5 +1,5 @@
-Introduction to neural network.
-Download dataset 
+## Introduction to neural network.
+# Download dataset 
 Dataset is already splitted unro training and testing
 Preprocess both train and test dataset
 Build the model
